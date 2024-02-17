@@ -12,7 +12,7 @@ const person = {
 const contact ={
     contact_no: "+971561560692",
     whatsapp: "971561560692",
-    location: "",
+    location: "https://maps.google.com/?cid=1181357520800774791&entry=gps",
     email: "arsalaansiddiquie7060@gmail.com",
 };
 
@@ -66,8 +66,8 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     youtube={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://www.youtube.com/@NATIONALPOINT7"
   },
     pinterest={
     visibil: false,
